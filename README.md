@@ -1,4 +1,4 @@
-# slimqueue
+# SlimQueue
 Advanced Job Queue plugin for CakePHP
 
 # Features
